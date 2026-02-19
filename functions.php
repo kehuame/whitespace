@@ -1,11 +1,11 @@
 <?php
 /**
- * 科华博客主题 for Typecho
+ * 刻画博客主题 for Typecho
  * 
- * @package Kehua Theme
- * @author Kehua
+ * @package whitespace - 留白主题
+ * @author 刻画kehua.me
  * @version 1.0.0
- * @link https://example.com
+ * @link https://kehua.me
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;

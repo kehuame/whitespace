@@ -1,5 +1,15 @@
-<?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
-<?php $this->need('header.php'); ?>
+<?php
+/**
+ * 这是一款单栏博客主题 - 刻画kehua.me
+ *
+ * @package whitespace - 留白主题
+ * @author 刻画kehua.me
+ * @version 1.0.0
+ * @link https://kehua.me
+ */
+if (!defined('__TYPECHO_ROOT_DIR__')) exit;
+$this->need('header.php');
+?>
 
     <!-- 主要内容 -->
     <main class="main">
